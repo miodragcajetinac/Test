@@ -1,5 +1,9 @@
 Marko oeonosahdo
 psajd lka
+<<<<<<< HEAD
 
 
 Marko Menjao
+=======
+mija menja
+>>>>>>> bc56d21776d45f0286bf8fa8b3c8dc221e66df76
